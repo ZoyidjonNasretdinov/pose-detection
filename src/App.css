@@ -47,7 +47,9 @@
   z-index: 10;
   width: 680px;
   height: 480px;
+  transform: scaleX(-1);
 }
+
 .canvas {
   position: absolute;
   margin: 0 auto;
@@ -57,4 +59,5 @@
   z-index: 10;
   width: 680px;
   height: 480px;
+  transform: scaleX(-1);
 }
